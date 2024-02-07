@@ -26,3 +26,6 @@ pip install Flask-Cors
 之后会自动生成图片，实测需要1分钟左右。
 # 修改参数
 代码的send()函数中有两处data={...}内容，大概在十几行的位置开始。修改里面的参数即可，像调用原来的StableDiffusionAPI一样。
+# 生成预览
+使用2.5DMiaoKa_reality_v1.0.safetensors模型生成：
+![db6496d8662639b9d1ce1d8180e49b3](https://github.com/yulinfeng16/chrysanthemum/assets/86186021/7b68374c-674d-44db-8970-a47f0d0574fe)
