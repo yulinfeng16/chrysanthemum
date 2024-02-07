@@ -1,0 +1,2 @@
+# chrysanthemum
+一个简单的Python程序，和sdwebui-api-manager一起使用可以通过简单的api唤起Stable Diffusion生成春节风格儿童头像。
