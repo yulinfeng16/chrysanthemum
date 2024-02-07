@@ -10,6 +10,8 @@
 pip install Flask-Cors
 `。
 之后运行脚本即可。
+
+脚本无需和sdwebui-api-manager放在同一目录。
 # API调用
 完成环境配置后，向localhost:18888/process_image发送一个POST以调用API。这个POST应该带有一个JSON，内容格式：
 ```
